@@ -10,6 +10,18 @@ https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1,Maasranga TV
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1,Maasranga TV
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
+#EXTINF:-1,Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1,Discovery Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1,Star movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1,HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
 #EXTINF:-1,Ekushay TV
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Ekushey TV

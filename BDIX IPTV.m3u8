@@ -10,6 +10,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1,HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+
+#EXTINF:-1,Maasranga TV
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1,9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,EKUSHEY TV HD
