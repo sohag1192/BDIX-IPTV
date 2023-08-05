@@ -1,7 +1,5 @@
 #EXTINF:-1,EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@IPTVSoltuion
 #EXTINF:-1,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1,9XM
@@ -292,8 +290,6 @@ https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/in
 https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
 #EXTINF:-1,SVBC 3 (720p)
 https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-#EXTINF:-1,Taaza TV (1080p)
-https://stream.playbox.co.in:19360/taaza/taaza.m3u8
 #EXTINF:-1,Times Now [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 #EXTINF:-1,Total Bhakti (1080p)
@@ -354,7 +350,5 @@ http://2hubs.ddns.net:25461/BabNour/telegrramm/69448
 http://2hubs.ddns.net:25461/BabNour/telegrramm/69450
 #EXTINF:-1,IND - Akaal Tv UK
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58446
-#EXTINF:-1,IND - Aastha UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58444
 #EXTINF:-1,IND - ZEE TAMIL
 http://2hubs.ddns.net:25461/BabNour/telegrramm/58437

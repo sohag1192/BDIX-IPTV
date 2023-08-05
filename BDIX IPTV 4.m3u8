@@ -48,8 +48,6 @@ http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
 #EXTINF:-1,Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1,Peace TV Bangla
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8?@IPTVSoltuion
 #EXTINF:-1,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1,ATN Islamic TV
@@ -302,8 +300,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
 #EXTINF:-1,dw tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-#EXTINF:-1,Peace Tv
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:-1,Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
 #EXTINF:-1,Radio Goongoon
@@ -342,8 +338,6 @@ http://stream.zeno.fm/1k0y9f0cm0quv
 http://harmanradio.net:8000/main_48.mp3
 #EXTINF:-1,Jesus Alive Radio
 http://stream.zenolive.com/qyb8s75nsceuv
-#EXTINF:-1,Non Stop Hindi Radio
-http://198.178.123.14:8216/;
 #EXTINF:-1,Radio BollyFm
 http://stream.radiobollyfm.in:8201/hd?t=1526570335
 #EXTINF:-1,Radio Hindi International

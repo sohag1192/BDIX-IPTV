@@ -18,8 +18,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,ABP ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-#EXTINF:-1,ATN Music(Jagobd)
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1,Sony Aath(BD)
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1,Shomoy TV
@@ -28,24 +26,51 @@ http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1,JagoNews24 Tv
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1,ATN MUSIC
-http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,Chanel S uk
 http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI PLUS
 https://bd.jagobd.com:444/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1,DW(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1,BANGLA 21 TV [BD]
-https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL S [UK]
-https://cdn.appv.jagobd.com:444/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,NAN IPTV [BD]
-https://cdn.appv.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1,DESHI TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1,NANDAN TV
 http://nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1,Sun Bangla
+http://103.141.2.37:25461/web/web/589
+#EXTINF:-1,Independent
+http://103.141.2.37:25461/web/web/590
+#EXTINF:-1,Sony_Aath
+http://103.141.2.37:25461/web/web/591
+#EXTINF:-1,GTV
+http://103.141.2.37:25461/web/web/592
+#EXTINF:-1,Travelxp HD
+http://103.141.2.37:25461/web/web/593
+#EXTINF:-1,Channel I
+http://103.141.2.37:25461/web/web/595
+#EXTINF:-1,Maasranga
+http://103.141.2.37:25461/web/web/596
+#EXTINF:-1,Somoy TV
+http://103.141.2.37:25461/web/web/597
+#EXTINF:-1,Zee_Bangla_Cinema
+http://103.141.2.37:25461/web/web/598
+#EXTINF:-1,Colore Bangla Cinema
+http://103.141.2.37:25461/web/web/599
+#EXTINF:-1,Colors Bangla
+http://103.141.2.37:25461/web/web/601
+#EXTINF:-1,Zee Bangla HD
+http://103.141.2.37:25461/web/web/602
+#EXTINF:-1,Sangeet
+http://103.141.2.37:25461/web/web/604
+#EXTINF:-1,Enterr 10
+http://103.141.2.37:25461/web/web/606
+#EXTINF:-1,ATN TV
+http://103.141.2.37:25461/web/web/612
+#EXTINF:-1,Nick
+http://103.141.2.37:25461/web/web/615
+#EXTINF:-1,Madani
+http://103.141.2.37:25461/web/web/618
 #EXTINF:-1,I IPTV [BD]
 http://162.244.81.142:1935/live/livestream/chunklist_w1681830417.m3u8
 #EXTINF:-1,My tv [6]
@@ -174,8 +199,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1,ROYEL TV [BD]
-https://cdn.appv.jagobd.com:444/live-orgin/royaltv.stream/chunks.m3u8
 #EXTINF:-1,VARENDRA TV
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1,SATV(Jagobd)
