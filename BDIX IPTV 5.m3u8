@@ -2,8 +2,6 @@
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,NDTV 24x7
@@ -20,36 +18,16 @@ http://as2.digitalsynapsebd.com:9236/;stream.mp3
 http://as2.digitalsynapsebd.com:9252/;stream.mp3
 #EXTINF:-1,Sony Max HD
 http://144.217.70.181:9587/hin2/SONYMAXHD/playlist.m3u8?token=test
-#EXTINF:-1,Sony Max HD(BD)
-http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1,MBC Bollywood HD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1,Btv
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
-#EXTINF:-1,TV Globo
-http://15.235.10.31:14330
-#EXTINF:-1,HBO Pop
-http://15.235.10.31:14397
 #EXTINF:-1,HBO Xtreme
 http://15.235.10.31:14405
-#EXTINF:-1,Multishow
-http://15.235.10.31:14503
-#EXTINF:-1,HBO2
-http://15.235.10.31:14382
-#EXTINF:-1,Star Chan
-http://15.235.10.31:14774
-#EXTINF:-1,HBO Signature
-http://15.235.10.31:14403
-#EXTINF:-1,FX
-http://15.235.10.31:14340
-#EXTINF:-1,HBO Signature
-http://15.235.10.31:14401
 #EXTINF:-1,SONY.MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1,B4U Kadak
@@ -58,14 +36,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1,Kappa TV
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1,SUPER HD
-http://142.132.136.139:8000/play/a003/index.m3u8
-#EXTINF:-1,STAR PLUS HD
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test&v=697229347
 #EXTINF:-1,STAR UTSAV
 http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8?token=test&v=697229347
-#EXTINF:-1,MBC Bollywood HD
-http://freecatv-manik.xyz/freecatv.m3u8
 #EXTINF:-1,003. 13-Sinart
 http://45.5.117.182:8000/play/a0dI/index.m3u8
 #EXTINF:-1,005. 42 - Extra TV 42
@@ -74,16 +46,12 @@ http://45.5.117.182:8000/play/a0e0/index.m3u8
 http://45.5.117.182:8000/play/a0hr/index.m3u8
 #EXTINF:-1,009. AMC
 http://45.5.117.182:8000/play/a0f5/index.m3u8
-#EXTINF:-1,C MOVOIES
-http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1,MOVIES RUSSIAN
 http://myott.top/stream/DEKA6YA5JRN/107.m3u8
 #EXTINF:-1,Dangal 2
 http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
 #EXTINF:-1,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1,Sony Kal
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
 #EXTINF:-1,9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,MU TV
@@ -100,8 +68,6 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u
 #EXTINF:-1,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-#EXTINF:-1,BBC World News
-http://ip2121.com:8081/live/bbc/playlist.m3u8
 #EXTINF:-1,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,SONY
@@ -116,8 +82,6 @@ http://168.205.87.198:8555/live/adriana/123456/36.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Law and Crime Network
-http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Hindi TV
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
 #EXTINF:-1,IB Tv Usa
@@ -186,8 +150,6 @@ https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1,DD National (576p)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1,Dheeran TV (576p)
-https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1,ET Now
 https://pubads.g.doubleclick.net/ssai/event/pJrzNyDoT_K_GwYQsijTsQ/master.m3u8
 #EXTINF:-1,ET Now Swadesh (720p)
@@ -204,8 +166,6 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://indtv-pull.secure.footprint.net/indtv/stream.m3u8
 #EXTINF:-1,INH 24x7 (360p)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
-#EXTINF:-1,iPlus TV (1080p) [Not 24/7]
-https://live.we2live.in/iplustv/iplustv/playlist.m3u8
 #EXTINF:-1,Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1,Ishwar Bhakti TV (720p)
@@ -250,16 +210,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 #EXTINF:-1,NDTV Profit (480p) [Not 24/7]
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1,News 11 (360p)
-https://rtmp.smartstream.video/news11/news11/playlist.m3u8
-#EXTINF:-1,News Live (720p)
-https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-#EXTINF:-1,Northeast Live (720p)
-https://5b48d7e1b4bce.streamlock.net/myapp/mbrstream/playlist.m3u8
-#EXTINF:-1,Pratidin Time (720p) [Not 24/7]
-https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1,Pratidin Time (360p) [Not 24/7]
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1,Public Music (576p) [Not 24/7]
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1,Puthuyugam TV (576p) [Not 24/7]
@@ -296,14 +246,8 @@ https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF:-1,Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1,Velicham (360p) [Not 24/7]
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
-#EXTINF:-1,VTV News (720p)
-https://5b48d7e1b4bce.streamlock.net/myapp/vtvlive/playlist.m3u8
 #EXTINF:-1,WION (1080p)
 https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
-#EXTINF:-1,Yoganadam News (720p)
-https://yoganadam.cinesoftcdn.com/yoganadam/live/index.m3u8
 #EXTINF:-1,Desi Channel (720p)
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1,Gospel TV India (720p)
@@ -314,41 +258,3 @@ https://tv.hamdardtv.com/hamdard/index.m3u8
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1,Star Family (576p)
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1,TV Punjab (720p)
-https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8
-#EXTINF:-1,NZ - Sky Sport 1 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73125
-#EXTINF:-1,NZ - Sky Sport 2 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73126
-#EXTINF:-1,NZ - Sky Sport 3 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73127
-#EXTINF:-1,NZ - Sky Sport 4 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73128
-#EXTINF:-1,NZ - Sky Sport 5 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73129
-#EXTINF:-1,NZ - Sky Sport 6 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73130
-#EXTINF:-1,NZ - Sky Sport 7 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73131
-#EXTINF:-1,NZ - Sky Sport 8 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73132
-#EXTINF:-1,NZ - Sky Sport 9 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/73133
-#EXTINF:-1,UK - Sky Sports Main Event
-http://2hubs.ddns.net:25461/BabNour/telegrramm/60969
-#EXTINF:-1,UK - BT SPORTS 2 HD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/60015
-#EXTINF:-1,UK - BT SPORTS 3 FHD
-http://2hubs.ddns.net:25461/BabNour/telegrramm/60020
-#EXTINF:-1,IND - B4U Movies UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69443
-#EXTINF:-1,IND - Aaj Tak UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69447
-#EXTINF:-1,IND - ABP News UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69448
-#EXTINF:-1,IND - Colors UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69450
-#EXTINF:-1,IND - Akaal Tv UK
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58446
-#EXTINF:-1,IND - ZEE TAMIL
-http://2hubs.ddns.net:25461/BabNour/telegrramm/58437

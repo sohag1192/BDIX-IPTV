@@ -2,8 +2,6 @@
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1,Akaal TV
-http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
 #EXTINF:-1,Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1,Asianet News
@@ -70,8 +68,6 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,Nethra TV
 http://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
-#EXTINF:-1,Pratidin Time
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1,Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1,Public Music
@@ -90,10 +86,6 @@ http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
 #EXTINF:-1,Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1,Jonack TV
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1,Channel Win
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:-1,Dubai Racing
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8?fluxustv.m3u8
 #EXTINF:-1,Edge Sports
@@ -126,8 +118,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1,Tamil Vision
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1,Velicham
-https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1,BritCom
@@ -312,8 +302,6 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,#EXTINF:-1 59.Channel TT
 https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
-#EXTINF:-1,#EXTINF:-1 66.Nandan TV
-http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,#EXTINF:-1 100.Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,127.Disney XD
