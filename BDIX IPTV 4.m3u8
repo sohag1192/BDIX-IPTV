@@ -1,342 +1,325 @@
-#EXTINF:-1,EKUSHEY TV HD
+#EXTM3U
+#EXTINF:-1 ,EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1,ITV IPTV [BD]
+#EXTINF:-1 ,ITV IPTV [BD]
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1,Bloomberg Asia
+#EXTINF:-1 ,Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1,TRT World
+#EXTINF:-1 ,TRT World
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1,Kolkata TV
+#EXTINF:-1 ,Kolkata TV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
-#EXTINF:-1,ABP News
+#EXTINF:-1 ,ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1,NDTV 24x7
+#EXTINF:-1 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1,Sky News Extra
+#EXTINF:-1 ,Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
-#EXTINF:-1,CBSN Newyork
+#EXTINF:-1 ,CBSN Newyork
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?@amarnettv.live
-#EXTINF:-1,Newsmax TV
+#EXTINF:-1 ,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
-#EXTINF:-1,CNA HD
+#EXTINF:-1 ,CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
-#EXTINF:-1,CNA SD
+#EXTINF:-1 ,CNA SD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
-#EXTINF:-1,CGTN
+#EXTINF:-1 ,CGTN
 https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
-#EXTINF:-1,Arirang
+#EXTINF:-1 ,Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:-1,Bloomberg
+#EXTINF:-1 ,Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8?@amarnettv.live
-#EXTINF:-1,NDTV India
+#EXTINF:-1 ,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
-#EXTINF:-1,NDTV 24x7
+#EXTINF:-1 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@amarnettv.live
-#EXTINF:-1,Amar Ujala
+#EXTINF:-1 ,Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:-1,Dunya News
+#EXTINF:-1 ,Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
-#EXTINF:-1,NDTV 24x7
+#EXTINF:-1 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@IPTVSolution
-#EXTINF:-1,Peace TV English
+#EXTINF:-1 ,Peace TV English
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,Peace TV Urdu
+#EXTINF:-1 ,Peace TV Urdu
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF:-1,IIPC TV
+#EXTINF:-1 ,IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
-#EXTINF:-1,Al Istiqama TV
+#EXTINF:-1 ,Al Istiqama TV
 http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
-#EXTINF:-1,Peace TV
+#EXTINF:-1 ,Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1,ATN Islamic TV
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:-1,Bible Explorations
+#EXTINF:-1 ,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1,Shubhsandesh
+#EXTINF:-1 ,Shubhsandesh
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1,ZEE BIOSKOP
+#EXTINF:-1 ,ZEE BIOSKOP
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1,DD National
+#EXTINF:-1 ,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-#EXTINF:-1,NASA TV
+#EXTINF:-1 ,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,Travel XP
+#EXTINF:-1 ,Travel XP
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
-#EXTINF:-1,B4U Kadak
+#EXTINF:-1 ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1,Groovy
+#EXTINF:-1 ,Groovy
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1,TV Cinec
+#EXTINF:-1 ,TV Cinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1,СТРК HD
+#EXTINF:-1 ,СТРК HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1,3ABN Kids
+#EXTINF:-1 ,3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1,Kabillion
+#EXTINF:-1 ,Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1,Spacetoon
+#EXTINF:-1 ,Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1,TCT Kids
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1,Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1,Ócko
+#EXTINF:-1 ,Ócko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
-#EXTINF:-1,Ócko Expres
+#EXTINF:-1 ,Ócko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:-1,Ócko Gold
+#EXTINF:-1 ,Ócko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1,Ócko STAR
+#EXTINF:-1 ,Ócko STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_lq.m3u8
-#EXTINF:-1,RETRO MUSIC TV
+#EXTINF:-1 ,RETRO MUSIC TV
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,VH1 Italia
+#EXTINF:-1 ,VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1,9X Jalwa
+#EXTINF:-1 ,9X Jalwa
 http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
-#EXTINF:-1,Jalwa
+#EXTINF:-1 ,Jalwa
 http://iptv.kitv.live:1935/live/Shari/MTV-P/82.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1 ,MTV
 http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
-#EXTINF:-1,Zee ETC
+#EXTINF:-1 ,Zee ETC
 http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
-#EXTINF:-1,Music India
+#EXTINF:-1 ,Music India
 http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
-#EXTINF:-1,B4U Music
+#EXTINF:-1 ,B4U Music
 http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
-#EXTINF:-1,E24
+#EXTINF:-1 ,E24
 http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
-#EXTINF:-1,8XM
+#EXTINF:-1 ,8XM
 http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
-#EXTINF:-1,Music Box Russia
+#EXTINF:-1 ,Music Box Russia
 http://iptv.kitv.live:1935/live/Shari/MTV-P/89.m3u8
-#EXTINF:-1,30A Music
+#EXTINF:-1 ,30A Music
 https://30a-tv.com/music.m3u8
-#EXTINF:-1,7S Music
+#EXTINF:-1 ,7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1,Afrobeats
+#EXTINF:-1 ,Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,Arabica Music
+#EXTINF:-1 ,Arabica Music
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1,Baraza TV
+#EXTINF:-1 ,Baraza TV
 https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,Baraza TV Greek Music Hits
+#EXTINF:-1 ,Baraza TV Greek Music Hits
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,DBM
+#EXTINF:-1 ,DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:-1,Desi Channel
+#EXTINF:-1 ,Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1,GO-RTV
+#EXTINF:-1 ,GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1,Kronehit HD
+#EXTINF:-1 ,Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1,Magic TV
+#EXTINF:-1 ,Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
-#EXTINF:-1,Music Top
-https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1,Music TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,NG
+#EXTINF:-1 ,NG
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1,Play TV
+#EXTINF:-1 ,Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:-1,Play TV
+#EXTINF:-1 ,Play TV
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1,Public Music
+#EXTINF:-1 ,Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1,Qmusic
+#EXTINF:-1 ,Qmusic
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1,Radio Piter Pan TV
+#EXTINF:-1 ,Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio PROS
+#EXTINF:-1 ,Radio PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:-1,Radio Weser TV Bremen
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1,V2Beat TV
+#EXTINF:-1 ,V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,V2BEAT TV
+#EXTINF:-1 ,V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,Xalastra TV
+#EXTINF:-1 ,Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1,Óčko
+#EXTINF:-1 ,Óčko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Óčko Expres
+#EXTINF:-1 ,Óčko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Óčko STAR
+#EXTINF:-1 ,Óčko STAR
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1,Жар Птица
+#EXTINF:-1 ,Жар Птица
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1,М2
+#EXTINF:-1 ,М2
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,Матур ТВ HD
+#EXTINF:-1 ,Матур ТВ HD
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1,Новое
+#EXTINF:-1 ,Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный BY
+#EXTINF:-1 ,Первый Музыкальный BY
 http://rtmp.one.by:1200
-#EXTINF:-1,Первый Музыкальный BY [FHD]
+#EXTINF:-1 ,Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
-#EXTINF:-1,Первый Музыкальный RU BY
+#EXTINF:-1 ,Первый Музыкальный RU BY
 http://rtmp.one.by:2200
-#EXTINF:-1,Первый Музыкальный RU HD BY
+#EXTINF:-1 ,Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
-#EXTINF:-1,Страна FM
+#EXTINF:-1 ,Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,Шансон-TB
+#EXTINF:-1 ,Шансон-TB
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1,Шансон-TB
+#EXTINF:-1 ,Шансон-TB
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1,Washington D.C. - USA
+#EXTINF:-1 ,Washington D.C. - USA
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/7132/2019/09/25/1301.mp4/media_w993546773_9.ts
-#EXTINF:-1,BritCom
+#EXTINF:-1 ,BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1,Skynet Sports 2
+#EXTINF:-1 ,Skynet Sports 2
 http://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
-#EXTINF:-1,Euro Sports 4K
+#EXTINF:-1 ,Euro Sports 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
-#EXTINF:-1,Red Bull TV
+#EXTINF:-1 ,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1,Edge Sports
+#EXTINF:-1 ,Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1,One Golf
+#EXTINF:-1 ,One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1,Euro Sports 4K
+#EXTINF:-1 ,Euro Sports 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1,Red Bull TV
+#EXTINF:-1 ,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
-#EXTINF:-1,star jalsha hd {link 2}
+#EXTINF:-1 ,star jalsha hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1,zee bangla hd {link 2}
+#EXTINF:-1 ,zee bangla hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1,massranga tv hd
+#EXTINF:-1 ,massranga tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-#EXTINF:-1,71 tv hd
+#EXTINF:-1 ,71 tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-#EXTINF:-1,nagorik tv
+#EXTINF:-1 ,nagorik tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-#EXTINF:-1,chanel i hd
+#EXTINF:-1 ,chanel i hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-#EXTINF:-1,deepto tv hd
+#EXTINF:-1 ,deepto tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-#EXTINF:-1,gazi tv hd
+#EXTINF:-1 ,gazi tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-#EXTINF:-1,channel 9 hd
+#EXTINF:-1 ,channel 9 hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-#EXTINF:-1,satv hd
+#EXTINF:-1 ,satv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:-1,n tv
+#EXTINF:-1 ,n tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:-1,my tv hd
+#EXTINF:-1 ,my tv hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
-#EXTINF:-1,sony aath
+#EXTINF:-1 ,sony aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1,travel xp hd
+#EXTINF:-1 ,travel xp hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1,star plus
+#EXTINF:-1 ,star plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-1,zee cinema
+#EXTINF:-1 ,zee cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1,sony max hd
+#EXTINF:-1 ,sony max hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:-1,enter 10 movies
+#EXTINF:-1 ,enter 10 movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-#EXTINF:-1,&flix
+#EXTINF:-1 ,&flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1,axn
+#EXTINF:-1 ,axn
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1,star movies sellect hd
+#EXTINF:-1 ,star movies sellect hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:-1,hbo tv
+#EXTINF:-1 ,hbo tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:-1,bbc lifestyle
+#EXTINF:-1 ,bbc lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:-1,sony ten 1 {link 2}
+#EXTINF:-1 ,sony ten 1 {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF:-1,Unknown_44
+#EXTINF:-1 ,Unknown_44
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/48.ts
-#EXTINF:-1,sony ten 2 hd {link 2}
+#EXTINF:-1 ,sony ten 2 hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1,star sports sellect 1 hd {link 2}
+#EXTINF:-1 ,star sports sellect 1 hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:-1,star sports sellect 2 hd {link 2}
+#EXTINF:-1 ,star sports sellect 2 hd {link 2}
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-#EXTINF:-1,d sports tv
+#EXTINF:-1 ,d sports tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-#EXTINF:-1,bbc tv
+#EXTINF:-1 ,bbc tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:-1,alzazira tv
+#EXTINF:-1 ,alzazira tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/58.ts
-#EXTINF:-1,discovery hd
+#EXTINF:-1 ,discovery hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1,durunto tv
+#EXTINF:-1 ,durunto tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:-1,cn plus hd
+#EXTINF:-1 ,cn plus hd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:-1,disnep xd
+#EXTINF:-1 ,disnep xd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1,bbc ceebies tv
+#EXTINF:-1 ,bbc ceebies tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-#EXTINF:-1,nick
+#EXTINF:-1 ,nick
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-1,sangeet bangla
+#EXTINF:-1 ,sangeet bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
-#EXTINF:-1,m tv
+#EXTINF:-1 ,m tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1,qx zalwaa
+#EXTINF:-1 ,qx zalwaa
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts
-#EXTINF:-1,massti
+#EXTINF:-1 ,massti
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:-1,dw tv
+#EXTINF:-1 ,dw tv
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/101.ts
-#EXTINF:-1,Radio Today(89.6)
-http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF:-1,Radio Goongoon
-http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF:-1,Radio Today
-http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF:-1,Jagoo FM
+#EXTINF:-1 ,Jagoo FM
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1,SaRaHa
+#EXTINF:-1 ,SaRaHa
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF:-1,Big FM
+#EXTINF:-1 ,Big FM
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1,Awaj FM
+#EXTINF:-1 ,Awaj FM
 http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
-#EXTINF:-1,Suno FM 102.
+#EXTINF:-1 ,Suno FM 102.
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
-#EXTINF:-1,2B! Radio Sangam Devi Maa
+#EXTINF:-1 ,2B! Radio Sangam Devi Maa
 http://ibadat.out.airtime.pro:8000/ibadat_a
-#EXTINF:-1,2B! Radio Sangam Ganesha
+#EXTINF:-1 ,2B! Radio Sangam Ganesha
 http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
-#EXTINF:-1,2B! Radio Sangam Gurbani
+#EXTINF:-1 ,2B! Radio Sangam Gurbani
 http://gurbani.out.airtime.pro:8000/gurbani_a
-#EXTINF:-1,2B! Radio Sangam Guruvar
+#EXTINF:-1 ,2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
-#EXTINF:-1,2B! Radio Sangam Krishna
+#EXTINF:-1 ,2B! Radio Sangam Krishna
 http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF:-1,2B! Radio Sangam Shiva
+#EXTINF:-1 ,2B! Radio Sangam Shiva
 http://hot.out.airtime.pro:8000/hot_a
-#EXTINF:-1,2B! Radio Sangam Shri Ram
+#EXTINF:-1 ,2B! Radio Sangam Shri Ram
 http://dard.out.airtime.pro:8000/dard_a
-#EXTINF:-1,Bollywood Punjabi Radio
+#EXTINF:-1 ,Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
-#EXTINF:-1,Harman Radio Australia
+#EXTINF:-1 ,Harman Radio Australia
 http://harmanradio.net:8000/main_48.mp3
-#EXTINF:-1,Jesus Alive Radio
+#EXTINF:-1 ,Jesus Alive Radio
 http://stream.zenolive.com/qyb8s75nsceuv
-#EXTINF:-1,Radio BollyFm
+#EXTINF:-1 ,Radio BollyFm
 http://stream.radiobollyfm.in:8201/hd?t=1526570335
-#EXTINF:-1,Radio Hindi International
+#EXTINF:-1 ,Radio Hindi International
 http://radio.bongonet.net:8012/rhi
-#EXTINF:-1,Radio Mirchi
+#EXTINF:-1 ,Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
-#EXTINF:-1,Radio Sai Global Harmony Bhajan
+#EXTINF:-1 ,Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
-#EXTINF:-1,Radio Schizoid - Chillout / Ambient
+#EXTINF:-1 ,Radio Schizoid - Chillout / Ambient
 http://94.130.113.214:8000/chill
-#EXTINF:-1,Radio Schizoid - Dub Techno
+#EXTINF:-1 ,Radio Schizoid - Dub Techno
 http://94.130.113.214:8000/dubtechno
-#EXTINF:-1,Radio Schizoid - Progressive Psychedelic Trance
+#EXTINF:-1 ,Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-#EXTINF:-1,Ujala Radio
+#EXTINF:-1 ,Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
