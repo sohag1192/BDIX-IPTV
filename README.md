@@ -1,3 +1,14 @@
+<marquee scrollamount="6">
+
+<a class="honoursApply" href="https://github.com/sohag1192/BDIX-IPTV" target="_blank">	                
+				  				<font color="red" size="4"><b>
+
+please give many many star than i give you many many iptv playlist । বিস্তারিত জানতে এখানে ক্লিক করুন--------- 
+								</b></font>
+</a>
+
+</marquee>
+
 **********<a target="_blank" href="https://t.me/bdixiptvm3u8/">Join Telegram</a>**********
 
 # BDIX-IPTV
