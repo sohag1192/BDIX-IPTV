@@ -3,8 +3,6 @@
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:-1 ,EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,aspor 🇹🇷
-http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 ,ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
@@ -15,14 +13,8 @@ http://175.107.244.52:4457/play/a06y/index.m3u8
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 ,Freecatv Euro.Sports 1
-http://175.107.244.52:4457/play/a06v/index.m3u8
 #EXTINF:-1 ,Freecatv Euro.Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
-#EXTINF:-1 ,One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,Red-Bull-TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,RTV SPORT 🇸🇲
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 ,Sports TV
@@ -37,16 +29,10 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 ,X SPORT PLUS
 http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 ,Aio Sport 1 (480p)
-https://af.ayas.ir/hls2/aiosport.m3u8
-#EXTINF:-1 ,SPORT 5 GOLD HD
-http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12254/index.m3u8
 #EXTINF:-1 ,SPORT 5 PLUS HD
 http://mwy2tky6.akciatv.ru/iptv/ZP6CPSLL6GVWT2/12256/index.m3u8
 #EXTINF:-1 ,TIGO SPORTS
@@ -61,5 +47,3 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 ,MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 ,Sky Sports Cricket
-http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d

@@ -1,10 +1,18 @@
 #EXTM3U
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,Star Jalsha
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 ,MBC Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 ,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 ,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1 ,Via Play Sports 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 ,Via Play Sports 2
 https://hls.streambtw.com/live/stream_2.m3u8
-#EXTINF:-1 ,Willow HD
-https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 ,SPORTSMAX 1
 https://is.gd/8Xi5qy
 #EXTINF:-1 ,BEIN SPORT LIVE 🇶🇦
@@ -37,14 +45,6 @@ http://89.187.167.92:80/live.ts?channelId=151&deviceUser=alex1234&devicePass=ale
 http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
 #EXTINF:-1 ,TNT SPORTS 1
 http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
-#EXTINF:-1 ,ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1 ,ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1 ,ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1 ,FoxSports  HD.
-http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1 ,FOXSPORTS 3 HD.
 http://45.166.92.22:58001/play/a01j/index.m3u8
 #EXTINF:-1 ,GOLTV HD.
@@ -55,14 +55,6 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
 #EXTINF:-1 ,TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1 ,MATH 🇷🇺
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,МАТЧ Футбол 3 HD 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 ,МАТЧ Футбол 3 🇷🇺
-http://bl.uma.media/live/126865/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:-1 ,LIVE 1
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 ,ASTRO SUPER SPORTS
 https://mlb.mrgamingstreams.com/astro.m3u8
 #EXTINF:-1 group-title="WILLOW SPORTS",WILLOW HD
@@ -101,8 +93,6 @@ https://mlb.mrgamingstreams.com/variety2.m3u8
 https://mlb.mrgamingstreams.com/variety3.m3u8
 #EXTINF:-1 group-title="TIGO SPORTS",TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ASPORTS",ASPORT
-http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 group-title="DUBAI SPORTS",DUBAI SPORTS
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 group-title="DUBAI SPORTS",Dubai Sports 2 FHD
@@ -125,22 +115,8 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://89.254.128.5:22280/qsport/index.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",Viju Sports
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="VIJU SPORTS",VIJU SPORTS
-https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",KM SPORTS
-https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",M4TH CTPAHA SPORTS
-http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",MATCH SPORT
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",MOROCCO SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 group-title="MIX SPORTS",ATN SPORTS
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
 #EXTINF:-1 group-title="MIX SPORTS",SAN MARINO SPORT
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
 #EXTINF:-1 group-title="VIAPLAY SPORTS",VIAPLAY SPORTS
@@ -205,8 +181,6 @@ https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Boishakhi TV
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Channel 24
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Bijoy TV
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekhon TV
@@ -225,8 +199,6 @@ https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",SATV HD
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",And TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 #EXTINF:-1 ,Dipto TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png",Maasranga TV(BD)
@@ -239,8 +211,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 group-title="BD" tvg-logo="https://www.tbn24.com/public/website_logo.png",TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony Aath
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ,Dubai Sports 2

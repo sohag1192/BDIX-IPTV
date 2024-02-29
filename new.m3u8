@@ -3,8 +3,6 @@
 http://g4b.alwaysdata.net/tsports1080p.m3u8
 #EXTINF:-1 ,EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,aspor 🇹🇷
-http://66.160.192.241/aspor/index.m3u8
 #EXTINF:-1 ,ESPN
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 ,BEIN SPORT 3 🇬🇧
@@ -15,12 +13,8 @@ http://175.107.244.52:4457/play/a06y/index.m3u8
 http://175.107.244.52:4457/play/a070/index.m3u8
 #EXTINF:-1 ,FIGHT BOX HD
 http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 ,Freecatv Euro.Sports 1
-http://175.107.244.52:4457/play/a06v/index.m3u8
 #EXTINF:-1 ,Freecatv Euro.Sports 2
 http://175.107.244.52:4457/play/a06w/index.m3u8
-#EXTINF:-1 ,One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ,Red-Bull-TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,RTV SPORT 🇸🇲
@@ -37,8 +31,6 @@ https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 ,Turkmenistan Sport 🇹🇲
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 ,Viasat_Sport_HD+
-https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 ,X SPORT
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 ,X SPORT PLUS

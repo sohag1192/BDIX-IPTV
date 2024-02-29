@@ -7,8 +7,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://210.210.155.35/session/c2dff430-f786-11ea-8442-ae06b0bdb327/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1 ,NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@IPTVSolution
-#EXTINF:-1 ,Bangladesh Betar Dhaka
-http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 ,Bangladesh Betar Chattogram
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
 #EXTINF:-1 ,Bangladesh Betar Khulna
@@ -61,8 +59,6 @@ http://45.5.117.182:8000/play/a0ho/index.m3u8
 http://45.5.117.182:8000/play/a0i3/index.m3u8
 #EXTINF:-1 ,79.Discovery Investigation
 http://168.205.87.198:8555/live/adriana/123456/36.m3u8
-#EXTINF:-1 ,Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 ,Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Hindi TV
@@ -127,8 +123,6 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 ,Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
-#EXTINF:-1 ,Channel Divya (720p)
-https://mcncdndigital.com/divyatv/index.fmp4.m3u8
 #EXTINF:-1 ,Channel Y (720p) [Not 24/7]
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 ,DD National (576p)
@@ -231,8 +225,6 @@ https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 ,Gospel TV India (720p)
 http://live.adostream.com:1935/gospeltv/gospeltv/playlist.m3u8
-#EXTINF:-1 ,Hamdard TV (1080p)
-https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:-1 ,Star Cinema (576p)
 http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
 #EXTINF:-1 ,Star Family (576p)
